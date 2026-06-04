@@ -23,5 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
-setup.txt
-minh_hoa_code_flow.png
+
+# personal
+/personal
